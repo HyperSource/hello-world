@@ -4,8 +4,11 @@ Former VBA dev who got tired of trying to pull of OOP in an event-driven languag
 If anyone is interested in "taking me under their wing", so to speak, that would be greatly appreciated.  I'd like to build relationships in the community, and contribute to open-source projects in the name of collaboration.
 
 Proficient: VBA
+
 Competent: HTML, CSS
+
 Learning: MSSQL, ASP.NET MVC, C#, Java, JavaScript, PHP
+
 
 Happy coding!
 - HyperSource
